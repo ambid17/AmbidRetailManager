@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbidDataManager", "AmbidDataManager\AmbidDataManager.csproj", "{45B1E381-7DC4-4B87-92DA-D42F5DBE679C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B1E381-7DC4-4B87-92DA-D42F5DBE679C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B1E381-7DC4-4B87-92DA-D42F5DBE679C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B1E381-7DC4-4B87-92DA-D42F5DBE679C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B1E381-7DC4-4B87-92DA-D42F5DBE679C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEA71AB-0413-471C-AAC4-EBA3A494AE8B}
+	EndGlobalSection
+EndGlobal
